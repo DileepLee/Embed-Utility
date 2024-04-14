@@ -1,0 +1,23 @@
+
+.bg-container{
+    height:100vh;
+    width: auto;
+    background-size: cover;
+    background-color: #e6f6ff;
+  }
+  .bg-container-hedding{
+  color:#daa520;
+  font-family: sans-serif;
+  font-weight: 600;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #faebd7;
+  background-color: #faebd7;
+  
+  }
+  .bg-container-para{
+    color:black;
+    font-size: 15px;
+  
+  }
+  
